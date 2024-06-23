@@ -3,10 +3,6 @@
 ## 📂 **<span style="color:green">Quick Access Table</span>**
 - [**<span style="color:purple">Section 1: Installation and Configuration</span>**](#section-1-installation-and-configuration)
 - [**<span style="color:purple">Section 2: Admin Tools and Network Services</span>**](#section-2-admin-tools-and-network-services)
-  - [**<span style="color:orange">DHCP</span>**](#dhcp)
-  - [**<span style="color:orange">DNS</span>**](#dns)
-  - [**<span style="color:orange">WINS</span>**](#wins)
-  - [**<span style="color:orange">IIS</span>**](#iis)
 - [**<span style="color:purple">Section 3: Active Directory</span>**](#section-3-active-directory)
 - [**<span style="color:purple">Section 4: Files, Folders, and DFS</span>**](#section-4-files-folders-and-dfs)
 - [**<span style="color:purple">Section 5: RDP and Monitoring</span>**](#section-5-rdp-and-monitoring)
@@ -16,7 +12,7 @@
 - [**<span style="color:purple">Section 9: Hyper-V VMs</span>**](#section-9-hyper-v-vms)
 
 ## **<span style="color:purple">Section 1: Installation and Configuration</span>**
-Server Administration/1 Installation and Configuration/Lab One Project Documentation.docx
+[Server Administration/1 Installation and Configuration/Lab One Project Documentation.docx](Server%20Administration/1%20Installation%20and%20Configuration/Lab%20One%20Project%20Documentation.docx)
 Provide detailed steps and guidelines on how to install and configure the necessary software and tools for the systems administration project.
 
 ## **<span style="color:purple">Section 2: Admin Tools and Network Services</span>**
@@ -64,10 +60,6 @@ Provide detailed steps and guidelines on how to install and configure the necess
 ## **<span style="color:purple">Section 9: Hyper-V VMs</span>**
 - 🖥️ Setting up Hyper-V for virtualization.
 - 💻 Creating, managing, and maintaining virtual machines.
-
----
-
-Feel free to contribute to this project by opening issues and submitting pull requests. For any questions, please contact [Your Contact Information].
 
 ---
 
