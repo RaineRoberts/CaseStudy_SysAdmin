@@ -16,6 +16,7 @@
 - [**<span style="color:purple">Section 9: Hyper-V VMs</span>**](#section-9-hyper-v-vms)
 
 ## **<span style="color:purple">Section 1: Installation and Configuration</span>**
+Server Administration/1 Installation and Configuration/Lab One Project Documentation.docx
 Provide detailed steps and guidelines on how to install and configure the necessary software and tools for the systems administration project.
 
 ## **<span style="color:purple">Section 2: Admin Tools and Network Services</span>**
