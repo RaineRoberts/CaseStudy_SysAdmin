@@ -1,6 +1,3 @@
-Here is the formatted content for a GitHub README file:
-
-```markdown
 # 🛠️ **Systems Administration Project**
 
 ## 📂 **Quick Access Table**
@@ -85,5 +82,3 @@ Provide detailed steps and guidelines on how to install and configure the necess
 ### 📜 **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This format is ready to be included in a GitHub README file.
