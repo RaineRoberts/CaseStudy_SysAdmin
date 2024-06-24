@@ -13,7 +13,8 @@
 
 
 [## **Section 1: Installation and Configuration**](Server%20Administration/1%20Installation%20and%20Configuration/Raine_Lab_One_Project_Documentation.pdf)
-Provide detailed steps and guidelines on how to install and configure the necessary software and tools for the systems administration project.
+
+- Provide detailed steps and guidelines on how to install and configure the necessary software and tools for the systems administration project.
 
 [## **Section 2: Admin Tools and Network Services**](Server%20Administration/2%20Admin%20Tools%20and%20Network%20Services/Raine_Lab_Two_Project_Documentation.pdf)
 
