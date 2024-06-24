@@ -1,17 +1,5 @@
 # 🛠️ **Systems Administration Project**
 
-## 📂 **Quick Access Table**
-- [**Section 1: Installation and Configuration**](#section-1-installation-and-configuration)
-- [**Section 2: Admin Tools and Network Services**](#section-2-admin-tools-and-network-services)
-- [**Section 3: Active Directory**](#section-3-active-directory)
-- [**Section 4: Files, Folders, and DFS**](#section-4-files-folders-and-dfs)
-- [**Section 5: RDP and Monitoring**](#section-5-rdp-and-monitoring)
-- [**Section 6: Group Policy**](#section-6-group-policy)
-- [**Section 7: Printing**](#section-7-printing)
-- [**Section 8: WDS**](#section-8-wds)
-- [**Section 9: Hyper-V VMs**](#section-9-hyper-v-vms)
-
-
 [## **Section 1: Installation and Configuration**](Server%20Administration/1%20Installation%20and%20Configuration/Raine_Lab_One_Project_Documentation.pdf)
 
 - Provide detailed steps and guidelines on how to install and configure the necessary software and tools for the systems administration project.
