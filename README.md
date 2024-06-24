@@ -78,7 +78,3 @@ Provide detailed steps and guidelines on how to install and configure the necess
 - 💻 Creating, managing, and maintaining virtual machines.
 
 ---
-
-### 📜 **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
